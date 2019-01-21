@@ -5,6 +5,8 @@ from collections import Counter
 import json
 import os
 
+#test if this is pushed
+
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--min_count_word', default=1, help="Minimum count for words in the dataset", type=int)
